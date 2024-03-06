@@ -1,0 +1,5 @@
+*.es linguist-language=js
+*.es linguist-language=JS
+*.es linguist-language=JAVASCRIPT
+*.ts linguist-language=typescript
+*.ts linguist-language=ts
